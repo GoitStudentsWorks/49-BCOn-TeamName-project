@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/49-BCOn-TeamName-project/static/css/main.5328a2c2.css",
-    "main.js": "/49-BCOn-TeamName-project/static/js/main.69f5ae60.js",
-    "static/js/463.cca3d189.chunk.js": "/49-BCOn-TeamName-project/static/js/463.cca3d189.chunk.js",
-    "static/js/49.6064ac54.chunk.js": "/49-BCOn-TeamName-project/static/js/49.6064ac54.chunk.js",
-    "static/js/427.d91ae236.chunk.js": "/49-BCOn-TeamName-project/static/js/427.d91ae236.chunk.js",
-    "static/js/315.e5e05bd9.chunk.js": "/49-BCOn-TeamName-project/static/js/315.e5e05bd9.chunk.js",
-    "static/js/925.71210708.chunk.js": "/49-BCOn-TeamName-project/static/js/925.71210708.chunk.js",
+    "main.js": "/49-BCOn-TeamName-project/static/js/main.7fc5faa6.js",
+    "static/js/463.efe39b2a.chunk.js": "/49-BCOn-TeamName-project/static/js/463.efe39b2a.chunk.js",
+    "static/js/49.1bd02b90.chunk.js": "/49-BCOn-TeamName-project/static/js/49.1bd02b90.chunk.js",
+    "static/js/427.ac065f97.chunk.js": "/49-BCOn-TeamName-project/static/js/427.ac065f97.chunk.js",
+    "static/js/315.3d7b0d8d.chunk.js": "/49-BCOn-TeamName-project/static/js/315.3d7b0d8d.chunk.js",
+    "static/js/925.d31798ad.chunk.js": "/49-BCOn-TeamName-project/static/js/925.d31798ad.chunk.js",
     "static/media/cocktailTabDesc2.png": "/49-BCOn-TeamName-project/static/media/cocktailTabDesc2.d3f192531a379a73e6ac.png",
     "static/media/cocktailMobile2.png": "/49-BCOn-TeamName-project/static/media/cocktailMobile2.0f10d8c358869d148ba2.png",
     "static/media/Mask-group.png": "/49-BCOn-TeamName-project/static/media/Mask-group.365d36e8f5ca8b8624cc.png",
@@ -42,15 +42,15 @@
     "static/media/plus.svg": "/49-BCOn-TeamName-project/static/media/plus.1e3c964c62a55c7133ae6cae68a3f12b.svg",
     "static/media/minus.svg": "/49-BCOn-TeamName-project/static/media/minus.94bfa77b5901e28242527a16c37e134b.svg",
     "main.5328a2c2.css.map": "/49-BCOn-TeamName-project/static/css/main.5328a2c2.css.map",
-    "main.69f5ae60.js.map": "/49-BCOn-TeamName-project/static/js/main.69f5ae60.js.map",
-    "463.cca3d189.chunk.js.map": "/49-BCOn-TeamName-project/static/js/463.cca3d189.chunk.js.map",
-    "49.6064ac54.chunk.js.map": "/49-BCOn-TeamName-project/static/js/49.6064ac54.chunk.js.map",
-    "427.d91ae236.chunk.js.map": "/49-BCOn-TeamName-project/static/js/427.d91ae236.chunk.js.map",
-    "315.e5e05bd9.chunk.js.map": "/49-BCOn-TeamName-project/static/js/315.e5e05bd9.chunk.js.map",
-    "925.71210708.chunk.js.map": "/49-BCOn-TeamName-project/static/js/925.71210708.chunk.js.map"
+    "main.7fc5faa6.js.map": "/49-BCOn-TeamName-project/static/js/main.7fc5faa6.js.map",
+    "463.efe39b2a.chunk.js.map": "/49-BCOn-TeamName-project/static/js/463.efe39b2a.chunk.js.map",
+    "49.1bd02b90.chunk.js.map": "/49-BCOn-TeamName-project/static/js/49.1bd02b90.chunk.js.map",
+    "427.ac065f97.chunk.js.map": "/49-BCOn-TeamName-project/static/js/427.ac065f97.chunk.js.map",
+    "315.3d7b0d8d.chunk.js.map": "/49-BCOn-TeamName-project/static/js/315.3d7b0d8d.chunk.js.map",
+    "925.d31798ad.chunk.js.map": "/49-BCOn-TeamName-project/static/js/925.d31798ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5328a2c2.css",
-    "static/js/main.69f5ae60.js"
+    "static/js/main.7fc5faa6.js"
   ]
 }

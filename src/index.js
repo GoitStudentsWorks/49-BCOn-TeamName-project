@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     {/* styled components warning cleaning */}
     <PersistGate loading={null} persistor={persistor}>
       <Provider store={store}>
-        <BrowserRouter basename="/TeamName-project">
+        <BrowserRouter basename="/49-BCOn-TeamName-project">
           <App />
         </BrowserRouter>
       </Provider>
